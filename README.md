@@ -9,7 +9,7 @@
 
 - 📄 Check Out My Resume [https://drive.google.com/file/d/1z9iT6rnasGwzpX0Sz3EB9aO_9veUS9Fg/view?usp=drive_link](https://drive.google.com/file/d/1z9iT6rnasGwzpX0Sz3EB9aO_9veUS9Fg/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
