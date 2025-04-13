@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Node.js**  
 - 💬 Ask me about **React.js, HTML, CSS, JavaScript, Tailwind CSS, Java, and MySQL**  
 - 📫 How to reach me: **[pankajsarnobat143@gmail.com](mailto:pankajsarnobat143@gmail.com)**  
-- 📄 Check Out My Resume: [**View Resume**](https://drive.google.com/file/d/1z9iT6rnasGwzpX0Sz3EB9aO_9veUS9Fg/view?usp=drive_link)
+- 📄 Check Out My Resume: [**View Resume**]([https://drive.google.com/file/d/1z9iT6rnasGwzpX0Sz3EB9aO_9veUS9Fg/view?usp=drive_link](https://drive.google.com/file/d/1TF9a-PcbzFrdcROKxurjQQJBASzz_OY-/view?usp=drive_link))
 
 ---
 
